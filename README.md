@@ -4,13 +4,13 @@ Preorder and PostOrder traversal of Binary Tree
 The program is to demonstrate basic Traversal technique in a binary tree.
 A sample expression a-b*c-d/e+f is taken as a hardcoded tree in the constructor of our Tree Class
 Tree representation:
-*               (-)
-*          /          \
-*        (-)          (+)
-*       /  \          / \
-*      a    (*)    (/)   f
-*     / \    / \
-*    b   c  d   e
+.               (-)
+.          /          \
+.        (-)          (+)
+.       /  \          / \
+.      a    (*)    (/)   f
+.     / \    / \
+.    b   c  d   e
 
 Traversals on a tree can be done using two basic methods:
 1. Using a Stack
